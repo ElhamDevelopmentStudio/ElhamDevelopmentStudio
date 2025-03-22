@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on AI SaaS.<br>Looking to collaborate on Next.js projects.<br>Seeking help with different aspects of backend development.<br>Currently learning about LLM models.<br>Ask me about optimizing frontend performance, implementing complex algorithms, or navigating web development frameworks.<br>Fun Facts:<br>Ranked 6th in the Afghanistan regional ICPC competition.<br>Fluent in Dari, Pashto, and English.<br>Contributed to a robotics project, focusing on assembly and programming robotic arms.
+Currently working at Netlinks Inc.<br>Looking to collaborate on Next.js projects.<br>Seeking help with different aspects of backend development.<br>Ask me about optimizing frontend performance, implementing complex algorithms, or navigating web development frameworks.<br>Fun Facts:<br>Ranked 1st in the Afghanistan regional ICPC competition.<br>Fluent in Dari, Pashto, and English.<br>Contributed to a robotics project, focusing on assembly and programming robotic arms.
 
 
 ## 🌐 Socials:
